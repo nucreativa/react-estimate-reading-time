@@ -1,0 +1,24 @@
+{
+  "name": "react-estimate-reading-time",
+  "version": "0.1.0",
+  "description": "React Component for get estimate reading time an article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucreativa/react-estimate-reading-time.git"
+  },
+  "keywords": [
+    "react",
+    "reading",
+    "time"
+  ],
+  "author": "Ary Wibowo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nucreativa/react-estimate-reading-time/issues"
+  },
+  "homepage": "https://github.com/nucreativa/react-estimate-reading-time#readme"
+}
